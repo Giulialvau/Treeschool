@@ -1,0 +1,48 @@
+*
+    .container {
+        max-width: 960px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      
+      header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        margin-bottom: 20px;
+      }
+      
+      .logo img {
+        width: 100px;
+        height: auto;
+      }
+      
+      .search-bar input {
+        padding: 5px;
+        width: 200px;
+        margin-right: 10px;
+    
+    }
+
+    .search-bar button {
+      padding: 5px 10px;
+    }
+    
+    .video {
+      margin-bottom: 20px;
+    }
+    
+    .video img {
+      width: 100%;
+      height: auto;
+    }
+    
+    .video h3 {
+      margin-top: 10px;
+      margin-bottom: 5px;
+    }
+    
+    .video p {
+        color: #888;
+
+}
